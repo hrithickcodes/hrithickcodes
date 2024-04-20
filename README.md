@@ -1,3 +1,1 @@
-```python
 I like transformers 🤖
-```
